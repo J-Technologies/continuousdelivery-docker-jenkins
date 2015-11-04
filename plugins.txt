@@ -11,4 +11,5 @@ credentials:1.22
 docker-commons:1.2
 docker-build-step:1.31
 rundeck:3.4
+token-macro:1.5.1
 build-name-setter:1.3

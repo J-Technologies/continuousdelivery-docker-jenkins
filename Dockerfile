@@ -6,6 +6,3 @@ USER root
 # Jenkins plugins
 COPY  plugins.txt /tmp/plugins.txt
 RUN /usr/local/bin/plugins.sh /tmp/plugins.txt
-
-# Scripts
-COPY copy-jenkins-config.sh /tmp/copy-jenkins-config.sh

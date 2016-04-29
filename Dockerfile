@@ -1,4 +1,4 @@
-FROM jenkins:2.0-beta-1
+FROM jenkins:1.609.3
 MAINTAINER Sebastiaan Renkens sebastiaan.renkens@ordina.nl
 
 USER root
